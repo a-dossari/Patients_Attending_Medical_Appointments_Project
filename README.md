@@ -79,4 +79,4 @@ True or False
 
 ### **Inspiration**
 
-What if that possible to predict someone to no-show an appointment?
+* Predict if the patient will show up or not to the appointment

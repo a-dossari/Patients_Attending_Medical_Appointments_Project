@@ -4,7 +4,7 @@
 A person makes a doctor appointment, receives all the instructions, and doesn't show up. Who to blame?
 
 ### **Content**
-110,527 medical appointments its 14 associated variables (characteristics). The most important one if the patient show-up or not to the appointment. Variable names are self-explanatory, if you have doubts, just let me know!
+110,527 medical appointments its 14 associated variables (characteristics). The most important one if the patient show-up or not to the appointment.
 
 ### **Data Dictionary**
 **PatientId**
@@ -62,7 +62,7 @@ True or False
 True or False
 
 
-**Handهcap**
+**Handicap**
 
 True or False
 
